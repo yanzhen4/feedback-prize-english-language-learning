@@ -2,7 +2,9 @@
 Evaluating language knowledge of ELL students from grades 8-12
 
 ## Team Members: 
-Yanzhen Shen, Yilun Chen, Yue Chen
+Yanzhen Shen yanzhen4@illinois.edu
+Yilun Chen yilunc3@illinois.edu
+Yue Chen yuec12@illinois.edu
 
 ## Goal: 
 our model aims to evaluate students' essays in the following aspects: cohesion,syntax,vocabulary,phraseology,grammar,conventions. The model will output a score will range from 1.0 to 5.0 in increments of 0.5. 
