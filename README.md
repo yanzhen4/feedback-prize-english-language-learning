@@ -2,8 +2,10 @@
 Evaluating language knowledge of ELL students from grades 8-12
 
 ## Team Members: 
-Yanzhen Shen yanzhen4@illinois.edu
+Yanzhen Shen yanzhen4@illinois.edu 
+
 Yilun Chen yilunc3@illinois.edu
+
 Yue Chen yuec12@illinois.edu
 
 ## Goal: 
